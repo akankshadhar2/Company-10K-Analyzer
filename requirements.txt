@@ -1,0 +1,8 @@
+Flask
+matplotlib
+bs4
+sec_edgar_downloader
+google-generativeai 
+tabulate
+streamlit
+
