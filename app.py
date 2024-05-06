@@ -146,7 +146,7 @@ def main():
     st.title("Company 10K Analyzer")
 
     # User input for company ticker
-    ticker = st.text_input("Enter company ticker:")
+    ticker = st.text_input("Enter company ticker: (Press Enter once done)")
     # Date selection using date_input
 
     after_date = st.text_input("Enter After Date (YYYY-MM-DD)", "1995-01-01")
