@@ -272,12 +272,17 @@ def main():
         st.write(answer)
         
         st.header("Ask a question")
-        # Construct a prompt/question based on available financial data
+               # Ask for user input
         prompt_ask = st.text_input("Enter your question related to the financial analysis")
 
-        # Get the answer using the defined function
-        answer_ask = answer_question(prompt_ask)
-        st.write(answer_ask)
+        # Check if the user has submitted a question
+        if prompt_ask:
+            # Simulate processing the answer based on the user's question
+            st.write(f"Processing answer for the question: {prompt_ask}")
+            answer_ask = answer_question(prompt_ask)
+            st.write(answer_ask)
+
+
   
     else:
         print(f"Failed to download 10-K filings for {ticker}")
