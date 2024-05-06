@@ -26,13 +26,7 @@ This project enables users to:
 - Provide an interactive interface for users to ask questions related to the financial data and receive answers based on the processed information.
 - Visualize the financial metrics over time using line plots for deeper analysis.
 
-## Screenshots
 
-![Financial Table](screenshots/financial_table_aapl.png)
-*Screenshot: Financial table displaying key metrics for AAPL from 1995 to 2023.*
-
-![Financial Visualizations](screenshots/financial_visualizations_aapl.png)
-*Screenshot: Financial visualizations showing revenue, net income, total assets, and total liabilities over time for AAPL.*
 
 ## How to Run
 
@@ -69,6 +63,29 @@ Explore the live demo of the app [here](https://company-10k-analyzer.streamlit.a
 
 Explore the video demo of the app [here](https://drive.google.com/file/d/1fc60fyt2ICgrCA_zJvlYn5HllCJhkViB/view?usp=sharing).
 
+## Screenshots
+
+![Financial Table](Screenshots/Generating%20Insights.png)
+*Screenshot: Download Successful and Generating Insights for AAPL from 1995 to 2023.*
+
+![Financial Table](Screenshots/FD4.png)
+*Screenshot: Financial Details for AAPL from 1995 to 2023.*
+
+![Financial Table](Screenshots/FV1.png)
+*Screenshot: Financial visualizations showing revenue, net income, total assets, and total liabilities over time for AAPL.*
+
+![Financial Table](Screenshots/TOTAL%20FV.png)
+*Screenshot: Full visualisation for AAPL from 1995 to 2023.*
+
+![Financial Table](Screenshots/FA1.png)
+*Screenshot: Financial Analysis and Insights for AAPL from 1995 to 2023.*
+
+![Financial Table](Screenshots/FA2.png)
+*Screenshot: Financial Analysis and Insights for AAPL from 1995 to 2023.*
+
+
+![Financial Table](Screenshots/ASK.png)
+*Screenshot: Ask a question for AAPL from 1995 to 2023.*
 
 ## Feedback
 
