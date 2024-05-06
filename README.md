@@ -8,6 +8,9 @@ This project is a financial data analysis dashboard built using Python, Streamli
   
 - **Streamlit**: Selected for building the interactive web application due to its simplicity and ease of use for creating data-driven applications. Streamlit allows rapid prototyping and deployment of web apps directly from Python scripts.
 
+- **Google Generative AI (Gemini API)**: AI model used for generating insights from financial data. The Gemini API from Google's Generative AI platform is utilized to analyze financial data and generate meaningful insights, providing valuable information for users and stakeholders.
+Note: Replace `api_key` in the code with your own API key obtained from the Google Generative AI (Gemini) platform.
+
 - **sec_edgar_downloader**: Utilized for fetching SEC filings (specifically 10-K reports) for a given ticker symbol. This library provides a convenient interface to access financial documents from the SEC's EDGAR database.
 
 - **BeautifulSoup**: Used for HTML parsing to extract text content from SEC filings. BeautifulSoup facilitates the extraction of relevant financial information from the raw HTML of the filings.
