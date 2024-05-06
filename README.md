@@ -1,6 +1,6 @@
 # Company-10K-Analyzer
 
-This project is a financial data analysis dashboard built using Python, Streamlit, and related libraries to download, process, and visualize financial data from SEC 10k filings.
+The Company 10K Analyzer is a web application designed to analyze and visualize financial data extracted from SEC filings (Form 10-K) of publicly traded companies. This application allows users to explore key financial metrics, trends, and insights derived from historical financial reports.
 
 ## Tech Stack
 
