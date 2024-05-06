@@ -1,6 +1,6 @@
 # Company-10K-Analyzer
 
-This project is a financial data analysis dashboard built using Python, Streamlit, and related libraries to download, process, and visualize financial data from SEC filings.
+This project is a financial data analysis dashboard built using Python, Streamlit, and related libraries to download, process, and visualize financial data from SEC 10k filings.
 
 ## Tech Stack
 
@@ -48,6 +48,32 @@ This project enables users to:
    streamlit run app.py
 4. **Access the Streamlit Dashboard:**
    Open a web browser and navigate to http://localhost:8501 to interact with the financial data analysis dashboard.
+
+## Insights
+
+- **Revenue Growth Trends**: Understand the revenue growth trajectory of the analyzed company over the specified period.
+- **Net Income Fluctuations**: Analyze the fluctuations in net income to gauge profitability trends.
+- **Total Assets and Liabilities**: Visualize changes in total assets and liabilities to assess financial stability.
+  
+## Why Care About These Insights?
+
+These insights provide valuable information for investors, financial analysts, and stakeholders to make informed decisions:
+
+- Revenue growth trends indicate business performance and market potential.
+- Net income fluctuations reflect profitability and operational efficiency.
+- Total assets and liabilities help assess financial health and risk exposure.
+
+## Live Demo and Video Demo
+
+Explore the live demo of the app [here](https://company-10k-analyzer.streamlit.app/).
+
+Explore the video demo of the app [here](https://drive.google.com/file/d/1fc60fyt2ICgrCA_zJvlYn5HllCJhkViB/view?usp=sharing).
+
+
+## Feedback
+
+For any issues or feedback, please create a new issue [here](https://github.com/akankshadhar2/Company-10K-Analyzer/issues).
+
 
 
    
