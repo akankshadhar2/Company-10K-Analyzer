@@ -9,7 +9,8 @@ import google.generativeai as genai
 
 
 
-genai.configure(api_key="API_KEY")
+api_key = st.secrets["api_key"]
+genai.configure(api_key=api_key)
 # Function to download 10k filings
 def download_10k_filings(ticker, after_date, before_date):
 
