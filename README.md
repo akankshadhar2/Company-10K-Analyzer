@@ -71,6 +71,12 @@ Explore the video demo of the app [here](https://drive.google.com/file/d/1fc60fy
 ![Financial Table](Screenshots/Generating%20Insights.png)
 *Screenshot: Download Successful and Generating Insights for AAPL from 1995 to 2023.*
 
+![Financial Table](Screenshots/Files_Downloaded.png)
+*Screenshot: Download Files for AAPL from 1995 to 2023.*
+
+![Financial Table](Screenshots/Filing_file.png)
+*Screenshot: 10k Filing for AAPL for 2017*
+
 ![Financial Table](Screenshots/FD4.png)
 *Screenshot: Financial Details for AAPL from 1995 to 2023.*
 
